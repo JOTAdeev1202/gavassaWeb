@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#principal{
+    width: 100%;
+    background-color: aqua;
+    font-family: 'Francois One', sans-serif;
+}
+
+#login{
+    width: 40%;
+    background-color: white;
+    //height: 100%;
+}
+
+#titulo{
+    //letter-spacing: 2px;
+    padding-top: 30px;
+    //padding-bottom: 5px;
+    text-align: center;
+}
+
+#logo{
+    text-align: center;
+    border-bottom: 3px solid ;
+    border-bottom-color: red;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+#intro{
+    widows: 60%;
+}
+
+#footherizq{
+    height: 30px;
+    background-color: #000000;
+}
+
+#footherder{
+    height: 50px;
+    background-color: #000000;
+}
+
+form input[type="text"],
+form input[type="email"],
+form input[type="password"],
+form textarea{
+	border: 1px solid #536DFE;
+	border-radius: 2px;
+	width:100%;
+	display: block;
+	margin-bottom: 20px;
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 1em;
+	color: #141938;
+    //padding: 16px;
+}

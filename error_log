@@ -1,0 +1,10 @@
+[07-Feb-2018 19:34:53 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/gavassa/public_html/gavassa/trabaje.php on line 11
+[07-Feb-2018 20:53:47 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/gavassa/public_html/gavassa/trabaje.php on line 11
+[07-Feb-2018 20:56:22 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/gavassa/public_html/gavassa/trabaje.php on line 11
+[07-Feb-2018 20:56:53 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/gavassa/public_html/gavassa/trabaje.php on line 11
+[07-Feb-2018 20:57:10 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/gavassa/public_html/gavassa/trabaje.php on line 33
+[07-Feb-2018 20:57:32 UTC] PHP Warning:  move_uploaded_file(attachment/logo-final.png): failed to open stream: No such file or directory in /home/gavassa/public_html/gavassa/trabaje.php on line 32
+[07-Feb-2018 20:57:32 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpCZ5UKb' to 'attachment/logo-final.png' in /home/gavassa/public_html/gavassa/trabaje.php on line 32
+[08-Feb-2018 17:10:01 UTC] PHP Parse error:  syntax error, unexpected '"   \r\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/gavassa/public_html/gavassa/peticiones.php on line 42
+[08-Feb-2018 17:11:54 UTC] PHP Parse error:  syntax error, unexpected '"   \r\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/gavassa/public_html/gavassa/peticiones.php on line 50
+[09-Feb-2018 13:38:17 UTC] PHP Warning:  Missing argument 5 for sendmail(), called in /home/gavassa/public_html/gavassa/comprar.php on line 40 and defined in /home/gavassa/public_html/gavassa/comprar.php on line 4
